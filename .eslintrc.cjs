@@ -16,5 +16,6 @@ module.exports = {
   // 自定义警告
   rules: {
     // '@typescript-eslint/no-unused-vars': 'off'
+    'vue/multi-word-component-names': 'off'
   }
 }
