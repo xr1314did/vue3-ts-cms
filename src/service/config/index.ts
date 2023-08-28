@@ -1,4 +1,4 @@
-// 1.区分开发环境和和生产环境
+// 1.区分开发环境和和生产环境 (真实开发中开发环境和生产环境的服务器地址是不一样的.)
 export const BASE_URL = 'http://codercba.com:8000'
 export const TIME_OUT = 10000
 
