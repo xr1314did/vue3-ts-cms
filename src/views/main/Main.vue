@@ -6,7 +6,7 @@
 </template>
 
 <script lang="ts" setup>
-import useCounterStore from '@/store/modules/counter'
+import useCounterStore from '@/store/counter/counter'
 
 const counterStore = useCounterStore()
 
